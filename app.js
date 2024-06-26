@@ -1,4 +1,3 @@
-
 // parseInt converte uma String para um número inteiro.
 
 // prompt é a maneira de comunicação entre usuário e código.
